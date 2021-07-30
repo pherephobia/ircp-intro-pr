@@ -1,0 +1,130 @@
+---
+title: "Introduction to IR/CP Lunch"
+subtitle: "FALL 2021"
+author: "Sanghoon Park"
+date: "University of South Carolina </br> `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["mystyle.css", "rutgers-fonts"]
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/ru_xaringan/js/ru_xaringan.js"]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+    includes:
+      in_header: "./libs/partials/header.html"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+background-size: 100%
+background-image: url(https://media.giphy.com/media/ZB2FawJQBLR9KzdzUR/giphy.gif)
+
+???
+
+What is IR/CP lunch? Just a change to have a chat about IR/CP or 
+other social science studies with graduate students and faculty in our department.
+
+---
+
+# What is IR/CP Lunch?
+
++ A lunch time meeting to talk about IR/CP studies with graduate students and faculties
+
+  + You can share your own research in IR/CP lunch.
+  
+  + Also, you can pick any papers in social science area, which you want to share with others.
+  
+    + Graduate students usually select a recent, interesting article in IR/CP area and lead the meeting.
+  
+## Fall 2021 IR/CP Lunch
+
+### Place: Gambrell 431
+
+### Time: Wednesday from 1 pm to 2 pm
+
++ We disseminate what we will read and discuss a week before the meeting via `Poligrad` mailing list.
+
++ You can see our rough schedules for Fall 2021 at  [here](https://docs.google.com/spreadsheets/d/1zClGfekQmVqLpW-gujZ9id11TofzCb2QlLNmEXMVgMc/edit?usp=sharing)
+
+
+---
+
+# Expectations
+
+## Opportunity to share your research to others
+
++ If you are planning on presenting your research at a conference the graduate handbook (updated January 1, 2020) stipulates this: 
+
+<usc-blockquote>"All presentations that students give personally must be practiced in front of a group of faculty no later than two weeks before the conference start date. The DGS will organize a group of faculty to observe the presentation."</usc-blockquote>
+
++ IRCP is an opportunity to fulfill this requirement by presenting in front of faculty and other graduate students. 
+
++ This is a good opportunity to let people know what you are interested in, get valuable feedback, and stimulate collaboration. 
+
+---
+# Expectations
+## Opportunity to talk about research you are interested in with others
+
++ If you find an interesting article and want to share it, please do it.
+
++ In IRCP lunch, you can introduce an interesting article and discuss it to get some feedback from other graduate students or faculty.
+
++ IRCP is an opportunity to learn how to read research more critically, learn how to submit research to journals, and gain additional professionalization.
+
+---
+
+# For the first week
+
+### Place: Gambrell 431
+
+### Time: Wednesday from 1 pm to 2 pm
+
+### What to do?
+
++ Intro & Icebreaking & Short article reading
+
++ Reading: Not determined
+
+---
+
+# How to participate in IR/CP Lunch?
+
+## Fall 2021
+
+### Fill out a form
+
+Please fill out the following [form](https://docs.google.com/spreadsheets/d/1zClGfekQmVqLpW-gujZ9id11TofzCb2QlLNmEXMVgMc/edit?usp=sharing) to tell when you want to share your research or an interesting article.<sup>1</sup>
+
+### Send a mail
+
+Please send a mail to [sp23@email.sc.edu](sp23@email.sc.edu) to tell when you want to share your research or an interesting article.
+
+
+.footnote[
+[1] We send all notices about IR/CP Lunch via the `Poligrad` mailing list.
+]
+X
+
+---
+class: title-slide-final, middle
+background-image: url(https://raw.githubusercontent.com/pherephobia/usc_logo/main/UofSC_Primary_RGB_G.png)
+background-size: 300px
+background-position: 11% 15%
+
+# Thanks!
+
+## Please do not hesitate to ask questions.
+
+Sanghoon Park
+
+|                                                                                                            |                                   |
+| :--------------------------------------------------------------------------------------------------------- | :-------------------------------- |
+| <a href="mailto:sp23@email.sc.edu">.RUred[<i class="fa fa-paper-plane fa-fw"></i>]               | sp23@email.sc.edu       |
+| <a href="https://www.sanghoon-park.com/">.RUred[<i class="fa fa-link fa-fw"></i>] | https://www.sanghoon-park.com/ |
+| <a href="http://github.com/pherephobia">.RUred[<i class="fa fa-github fa-fw"></i>]                          | @pherephobia                       |
+
